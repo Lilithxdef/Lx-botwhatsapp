@@ -76,6 +76,27 @@ Gunakan dengan bijak dan jangan gunakan untuk spam.
 
 
 ---
+## ⚙️ Instalasi di Termux / Linux
+
+### 🔧 Persyaratan:
+- Node.js v18+
+- Git
+- FFmpeg
+- WhatsApp aktif (untuk scan QR)
+
+### 🧪 Perintah Instalasi:
+
+pkg update && pkg upgrade
+pkg install nodejs
+pkg install git
+pkg install ffmpeg
+pkg install imegemagick
+git clone https://github.com/lilithxdef/Lx-bot
+cd Lx-bot
+npm install
+
+# RUN BOT
+node index.js
 
 🌟 Dukung Proyek Ini
 
