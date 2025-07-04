@@ -86,14 +86,21 @@ Gunakan dengan bijak dan jangan gunakan untuk spam.
 
 ### 🧪 Perintah Instalasi:
 
-pkg update && pkg upgrade
-pkg install nodejs
-pkg install git
-pkg install ffmpeg
-pkg install imegemagick
-git clone https://github.com/lilithxdef/Lx-bot
-cd Lx-bot
-npm install
+- pkg update && pkg upgrade
+
+- pkg install nodejs
+
+- pkg install git
+
+- pkg install ffmpeg
+
+- pkg install imegemagick
+
+- git clone https://github.com/lilithxdef/Lx-bot
+
+- cd Lx-bot
+
+- npm install
 
 # RUN BOT
 node index.js
@@ -105,8 +112,6 @@ Kalau kamu merasa terbantu, jangan lupa:
 🌟 Star repositori ini
 
 🔁 Fork untuk pengembangan pribadi
-
-🤝 Share ke sesama developer bot
 
 
 
