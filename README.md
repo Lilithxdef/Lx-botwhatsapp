@@ -126,5 +126,5 @@ Kalau kamu merasa terbantu, jangan lupa:
 --
  👤 Developer
 
- - httpps://github.com/lilithxdef
+<a href="https://github.com/Lilithxdef"><img alt="GitHub" src="https://img.shields.io/badge/Lilith%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
