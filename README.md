@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://github.com/lilithxdef.png" width="500";" />
 </p>
+hello everyone👋
+</p>
 
 <p align="center">Bot WhatsApp ringan, cepat, dan simple
 </p>
