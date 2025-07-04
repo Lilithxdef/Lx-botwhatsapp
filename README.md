@@ -1,4 +1,9 @@
-<h1 align="center">🤖 Lx-Bot</h1>
+<p align="center">
+  <img src="https://github.com/lilithxdef.png" width="120" style="border-radius: 50%;" />
+</p>
+
+**LilithXdef**  
+🔗 [GitHub Profile](https://github.com/lilithxdef)
 <p align="center">Bot WhatsApp ringan, cepat, dan modular berbasis <a href="https://github.com/whiskeysockets/baileys">Baileys</a></p>
 <p align="center">
   <img src="https://img.shields.io/badge/status-online-green?style=flat-square" />
