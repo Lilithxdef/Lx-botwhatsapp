@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://github.com/lilithxdef.png" width="300";" />
+  <img src="https://github.com/lilithxdef.png" width="500";" />
 </p>
 
-**LilithXdef**  
-🔗 [GitHub Profile](https://github.com/lilithxdef)
-<p align="center">Bot WhatsApp ringan, cepat, dan modular berbasis <a href="https://github.com/whiskeysockets/baileys">Baileys</a></p>
+<p align="center">Bot WhatsApp ringan, cepat, dan simple
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/status-online-green?style=flat-square" />
   <img src="https://img.shields.io/github/repo-size/lilithxdef/Lx-bot?style=flat-square" />
@@ -125,3 +124,8 @@ Kalau kamu merasa terbantu, jangan lupa:
 🛡️ MIT License — bebas digunakan dan dikembangkan.
 
 --
+ 👤 Developer
+
+<p align="center">
+  <img src="https://github.com/lilithxdef.png" width="120" style="border-radius: 50%;" />
+</p>
