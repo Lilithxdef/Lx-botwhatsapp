@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/lilithxdef.png" width="120" style="border-radius: 50%;" />
+  <img src="https://github.com/lilithxdef.png" width="300";" />
 </p>
 
 **LilithXdef**  
