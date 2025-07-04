@@ -1,10 +1,8 @@
 <p align="center">
   <img src="https://github.com/lilithxdef.png" width="500";" />
 </p>
-<p hello everyone👋
-</p>
 
-<p align="center">Bot WhatsApp ringan, cepat, dan simple
+<p align="center">Lx-bot _ Bot WhatsApp ringan, cepat, dan simple
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/status-online-green?style=flat-square" />
@@ -128,6 +126,5 @@ Kalau kamu merasa terbantu, jangan lupa:
 --
  👤 Developer
 
-<p align="center">
-  <img src="https://github.com/lilithxdef.png" width="120" style="border-radius: 50%;" />
-</p>
+ - httpps://github.com/lilithxdef
+
