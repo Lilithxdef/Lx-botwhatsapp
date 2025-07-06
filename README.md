@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img src="https://github.com/lilithxdef.png" width="500";" />
 </p>
@@ -9,10 +10,21 @@
   <img src="https://img.shields.io/github/repo-size/lilithxdef/Lx-bot?style=flat-square" />
   <img src="https://img.shields.io/github/languages/top/lilithxdef/Lx-bot?style=flat-square" />
   <img src="https://img.shields.io/github/license/lilithxdef/Lx-bot?style=flat-square" />
+=======
+<h1 align="center">Lx-Bot 🔥</h1>
+<p align="center">
+  WhatsApp Bot berbasis <a href="https://github.com/whiskeysockets/baileys">Baileys</a> • Fast • Modular • Powerful
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/status-online-green?style=flat-square" />
+  <img src="https://img.shields.io/github/license/lilithxdef/Lx-bot?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/top/lilithxdef/Lx-bot?style=flat-square" />
+>>>>>>> b381d15 (🧠 Update)
 </p>
 
 ---
 
+<<<<<<< HEAD
 ## 🚀 Tentang
 
 **Lx-Bot** adalah bot WhatsApp open-source yang dibuat dengan Node.js dan Baileys. Dirancang untuk penggunaan pribadi maupun publik, dengan fitur-fitur ringan tanpa bergantung pada API premium.
@@ -128,3 +140,30 @@ Kalau kamu merasa terbantu, jangan lupa:
 
 <a href="https://github.com/Lilithxdef"><img alt="GitHub" src="https://img.shields.io/badge/Lilith%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
+=======
+## 📦 Tentang
+
+> Lx-Bot adalah WhatsApp Bot berbasis Node.js & Baileys, dengan fitur-fitur ringan dan sederhana, tanpa API premium, dan bisa langsung dijalankan dari Termux atau VPS.
+
+---
+
+## ✨ Fitur
+
+- `.menu` — Tampilkan daftar fitur
+- `.play <judul>` — Download MP3 dari YouTube
+- `.sticker` — Convert media jadi stiker
+- `.sc` — Source code bot
+- `.ping` — Cek respon bot
+
+> ❌ Beberapa fitur masih dalam pengembangan (lihat di menu bot).
+
+---
+
+## 🛠️ Install
+
+```bash
+git clone https://github.com/lilithxdef/Lx-bot
+cd Lx-bot
+npm install
+node index.js
+>>>>>>> b381d15 (🧠 Update)

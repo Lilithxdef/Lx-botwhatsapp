@@ -1,0 +1,20 @@
+const { downloadMediaMessage } = require('@whiskeysockets/baileys')
+
+module.exports = async function antiview(sock, msg, from) {
+  if (!msg.quoted || (!msg.quoted.message?.viewOnceMessage && !msg.quoted.message?.viewOnceMessageV2)) {
+    return sock.sendMessage(from, { text: '❌ Balas pesan view-once untuk membuka.' }, { quoted: msg })
+  }
+
+  try {
+    const viewOnce = msg.quoted.message?.viewOnceMessage?.message || msg.quoted.message?.viewOnceMessageV2?.message
+    const type = Object.keys(viewOnce)[0]
+    const mediaMsg = { ...msg.quoted }
+    mediaMsg.message = viewOnce
+
+    const buffer = await downloadMediaMessage(mediaMsg, 'buffer', {}, { reuploadRequest: sock.updateMediaMessage })
+    await sock.sendMessage(from, { [type]: buffer, caption: '🔓 *Anti View Once!*' }, { quoted: msg })
+  } catch (e) {
+    console.error('❌ Gagal antiview:', e)
+    sock.sendMessage(from, { text: '❌ Gagal membuka media.' }, { quoted: msg })
+  }
+}
