@@ -64,8 +64,8 @@ pkg install nodejs
 pkg install git
 pkg install ffmpeg
 pkg install imagemagick
-git clone https://github.com/lilithxdef/Lx-bot
-cd Lx-bot
+git clone https://github.com/lilithxdef/Lx-botwhatsapp
+cd Lx-botwhatsapp
 npm install
 
 # Jalankan bot
