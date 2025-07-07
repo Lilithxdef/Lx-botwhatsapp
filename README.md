@@ -31,7 +31,8 @@ Dirancang untuk penggunaan pribadi maupun publik, dengan fitur ringan tanpa API 
 
 #### Download Menu
 - `.play <judul/link>` — Download MP3 dari YouTube (via yt-search & yt-dlp)
-- `.ytmp3 <link>` — ❌ Belum fix / nonaktif
+- `.ytmp3 <link>` — download audio dari youtube
+- `.tiktokdl <link>` - download video tiktok
 
 #### Music Tools
 - `.spotify <link>` — ❌ Ambil data Spotify (masih pengembangan)
@@ -42,7 +43,7 @@ Dirancang untuk penggunaan pribadi maupun publik, dengan fitur ringan tanpa API 
 - `.qc <teks>` — ❌ Quote Chat seperti chat WA
 
 #### Utilities
-- `.ping` — ❌ Cek respon bot
+- `.ping` 
 - `.sc` — Tampilkan source code GitHub
 - `.runtime` — Tampilkan waktu aktif bot
 
