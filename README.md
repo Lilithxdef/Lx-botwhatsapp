@@ -2,7 +2,7 @@
   <img src="https://github.com/lilithxdef.png" width="300"/>
 </p>
 
-<h1 align="center">Lx-Bot 🔥</h1>
+<h1 align="center">Lx-Botwhatsapp</h1>
 <p align="center">
   WhatsApp Bot ringan, cepat, dan simple berbasis <a href="https://github.com/whiskeysockets/baileys">Baileys</a>
 </p>
