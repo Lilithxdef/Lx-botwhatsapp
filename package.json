@@ -1,28 +1,14 @@
 {
   "name": "lx-bot",
   "version": "1.0.0",
-<<<<<<< HEAD
-  "main": "index.js",
-  "description": "Lx-bot WhatsApp bot",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.4",
-    "fluent-ffmpeg": "^2.1.3",
-    "moment-timezone": "^0.5.40",
-    "node-fetch": "^2.7.0",
-    "pino": "^8.0.0",
-    "yt-search": "^2.10.7"
-=======
   "description": "WhatsApp bot using Baileys - by LilithXdef",
   "main": "index.js",
   "type": "commonjs",
+  "author": "LilithXdef",
+  "license": "MIT",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "LilithXdef",
-  "license": "MIT",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
     "@whiskeysockets/baileys": "^6.7.4",
@@ -37,6 +23,5 @@
     "qrcode-terminal": "^0.12.0",
     "yt-search": "^2.10.7",
     "ytdl-core": "^4.11.5"
->>>>>>> b381d15 (🧠 Update)
   }
 }
